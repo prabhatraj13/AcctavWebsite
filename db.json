@@ -1,0 +1,50 @@
+{"blog":[
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Web Devepolement",
+      "image":"https://images.pexels.com/photos/67112/pexels-photo-67112.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "quia et suscip rerum est autem sunt rem eveniet architecto"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "App Devepolement",
+      "image": "https://images.pexels.com/photos/147413/twitter-facebook-together-exchange-of-information-147413.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": " vel nihil molestiae ut non debitis possimus qui neque nisi nulla"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "Software Devepolement",
+      "image": "https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "vel accusantium pariatur\nmolestiae porro eius odio et aut"
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "Digital Marketing",
+      "image": "https://img.freepik.com/free-photo/digital-marketing-with-icons-business-people_53876-94833.jpg?size=626&ext=jpg&ga=GA1.1.1448711260.1706486400&semt=ais",
+      "description": "rerum curem tenetur doloremque ipsam iure\nquis sunt voillo velit"
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "title": "Graphic Designer",
+      "image": "https://images.unsplash.com/photo-1626785774625-ddcddc3445e9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z3JhcGhpYyUyMGRlc2lnbnxlbnwwfHwwfHx8MA%3D%3D",
+      "description": "uptatem omnis possimus esse volatibus quis\nest teneturneque"
+    },
+    {
+      "userId": 1,
+      "id": 6,
+      "title": "Acctav Facilities",
+      "image": "https://images.pexels.com/photos/4254891/pexels-photo-4254891.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "et ea ccusantium quas\nvoluptate dolores velit et doloremque m"
+    }
+  
+  ]
+
+
+
+
+}
